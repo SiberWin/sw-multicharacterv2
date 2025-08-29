@@ -1,1 +1,0 @@
-# sw-multicharacterv2
